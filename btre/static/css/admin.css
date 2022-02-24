@@ -1,0 +1,29 @@
+#header {
+    height: 65px;
+    background: #10284e;
+    color: #fff;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+a:link,
+a:visited {
+    color: #10284e;
+}
+
+div.breadcrumbs, .module h2, .module caption, .inline-group h2  {
+    background: #30caa0;
+    color: #333;
+}
+
+div.breadcrumbs a {
+    color: #333;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button,
+ .button.default, input[type=submit].default, .submit-row input.default {
+    background: #10284e;
+    color: #fff;
+}
